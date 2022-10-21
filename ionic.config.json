@@ -1,0 +1,7 @@
+{
+  "name": "ionic-6-http",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
